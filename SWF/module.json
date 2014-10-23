@@ -1,0 +1,27 @@
+[
+{
+	"id":"1",
+	"name":"待办事宜",
+	"icon":"https://git.oschina.net/sensesw/SRAM/raw/master/SWF/images/icon_module_daiban.png"
+},
+{
+	"id":"2",
+	"name":"已办事宜",
+	"icon":"https://git.oschina.net/sensesw/SRAM/raw/master/SWF/images/icon_module_yiban.png"
+},
+{
+	"id":"3",
+	"name":"办结事宜",
+	"icon":"https://git.oschina.net/sensesw/SRAM/raw/master/SWF/images/icon_module_banjie.png"
+},
+{
+	"id":"4",
+	"name":"日程安排",
+	"icon":"https://git.oschina.net/sensesw/SRAM/raw/master/SWF/images/icon_module_richeng.png"
+},
+{
+	"id":"5",
+	"name":"文档中心",
+	"icon":"https://git.oschina.net/sensesw/SRAM/raw/master/SWF/images/icon_module_wendang.png"
+}
+]

@@ -1,0 +1,16 @@
+[
+{
+	"id":"1",
+	"loginname":"zhangsan",
+	"password":"test",
+	"name":"张三",
+	"portrait":"https://git.oschina.net/sensesw/SRAM/raw/master/SWF/images/portrait_zhangshan.jpg"
+},
+{
+	"id":"2",
+	"loginname":"lisi",
+	"password":"test",
+	"name":"李四",
+	"portrait":"https://git.oschina.net/sensesw/SRAM/raw/master/SWF/images/portrait_lisi.jpg"
+}
+]

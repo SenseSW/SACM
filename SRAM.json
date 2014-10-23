@@ -1,0 +1,10 @@
+{
+    "resultCount":1,
+    "results":[{
+            "releaseDate" : "2014-07-30 14:00:00",
+            "releaseNotes" : "new version",
+            "trackName" : "SRAM",
+            "trackViewUrl" : "itms-services://?action=download-manifest&url=https://git.oschina.net/sensesw/SRAM/raw/master/SRAM_1.0.0.plist",
+            "version" : "1.0.0"
+    }]
+}
